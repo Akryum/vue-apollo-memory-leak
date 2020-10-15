@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import { gql } from "@apollo/client";
+import { gql } from "@apollo/client/core";
 import Post from "./Post";
 
 export default {

@@ -9,16 +9,14 @@
   },
   "dependencies": {
     "@apollo/client": "^3.1.4",
-    "@vue/cli-plugin-babel": "4.1.1",
     "graphql": "^15.3.0",
-    "graphql-tag": "^2.11.0",
-    "react": "16.13.1",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.4"
   },
   "devDependencies": {
-    "@vue/cli-plugin-eslint": "4.1.1",
-    "@vue/cli-service": "4.1.1",
+    "@vue/cli-plugin-babel": "^4.1.1",
+    "@vue/cli-plugin-eslint": "^4.1.1",
+    "@vue/cli-service": "^4.1.1",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.0.1",
